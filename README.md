@@ -1,5 +1,5 @@
 ### Hi There! 👋
-- 🔗 [Peronal Website](haardtrivedi.github.io)
+- 🔗 [Peronal Website](https://haardtrivedi.github.io)
 - 🖥 Worked at Amazon Web Services, [Micro Focus - Interset](https://www.microfocus.com/en-us/products/arcsight-intelligence/overview), [Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng), [CIBC](https://www.cibc.com)
 - 📫 How to reach me: [Email](trivedi.haard99@gmail.com), [LinkedIn](https://www.linkedin.com/in/haardtrivedi/)
 - 🔭 I’m currently working on [Health & Wellness Mobile App for uOttawa](https://github.com/samarwal/Capstone-Wellness) (Capstone Project)
